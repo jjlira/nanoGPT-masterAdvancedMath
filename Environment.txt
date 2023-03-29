@@ -1,0 +1,11 @@
+Environment
+•	Windows 11
+•	Python 3.10.9
+•	PyTorch: torch-1.13.1+cu116 CUDA:0 (NVIDIA GeForce RTX 2060, 6144MiB)
+•	VSCode 1.75.1
+•	CUDA: 11.6, V11.6.55
+•	CUDNN 11.6
+•	GPU: NVIDIA GeForce RTX 2060
+•	CPU: 06 Intel Core i7-10750 @2.6Ghz (12 CPUs, 32 GB RAM)
+Training
+We run 6 experiments in order to tune and test the nanoGPT model. The running time range from 1 hours to 6 hours using the 35 speeches and 100 iterations.

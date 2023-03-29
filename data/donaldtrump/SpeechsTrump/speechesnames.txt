@@ -1,0 +1,46 @@
+JOSedsds=TRIM(RIGHT(B6, LEN(B6)-FIND(". ",B6)))
+ Volume in drive C is Windows
+ Volume Serial Number is BC94-D697
+
+ Directory of C:\Users\jlira\Training\__Classes_GeorgeBrown\4015 Advanced Mathematical Concepts for Deep LearningMachine Learning\Assignments\Project1\nanoGPT-master\data\donaldtrump\SpeechsTrump
+
+2023-03-28  03:27 PM    <DIR>          .
+2023-03-27  08:48 AM    <DIR>          ..
+2020-09-26  10:25 AM            95,916 BattleCreekDec19_2019.txt
+2020-09-26  10:25 AM            89,833 BemidjiSep18_2020.txt
+2020-09-26  10:25 AM            51,876 CharlestonFeb28_2020.txt
+2020-09-26  10:25 AM            37,189 CharlotteMar2_2020.txt
+2020-09-26  10:25 AM            44,984 CincinnatiAug1_2019.txt
+2020-09-26  10:25 AM            63,212 ColoradorSpringsFeb20_2020.txt
+2020-09-26  10:25 AM            57,143 DallasOct17_2019.txt
+2020-09-26  10:25 AM            64,560 DesMoinesJan30_2020.txt
+2020-09-26  10:25 AM            87,099 FayettevilleSep19_2020.txt
+2020-09-26  10:25 AM            50,534 FayettevilleSep9_2019.txt
+2020-09-26  10:25 AM            54,995 FreelandSep10_2020.txt
+2020-09-26  10:25 AM            58,205 GreenvilleJul17_2019.txt
+2020-09-26  10:25 AM            49,162 HendersonSep13_2020.txt
+2020-09-26  10:25 AM            54,726 HersheyDec10_2019.txt
+2020-09-26  10:25 AM            74,708 LasVegasFeb21_2020.txt
+2020-09-26  10:25 AM            67,566 LatrobeSep3_2020.txt
+2020-09-26  10:25 AM            49,765 LexingtonNov4_2019.txt
+2020-09-26  10:25 AM            52,285 MilwaukeeJan14_2020.txt
+2020-09-26  10:25 AM            76,858 MindenSep12_2020.txt
+2020-09-26  10:25 AM            63,515 MinneapolisOct10_2019.txt
+2020-09-26  10:25 AM            78,192 MosineeSep17_2020.txt
+2020-09-26  10:25 AM            55,428 NewHampshireAug15_2019.txt
+2020-09-26  10:25 AM            49,444 NewHampshireAug28_2020.txt
+2020-09-26  10:25 AM            36,876 NewHampshireFeb10_2020.txt
+2020-09-26  10:25 AM            63,349 NewMexicoSep16_2019.txt
+2020-09-26  10:25 AM            58,336 OhioSep21_2020.txt
+2020-09-26  10:25 AM            52,718 PhoenixFeb19_2020.txt
+2020-09-26  10:25 AM            65,090 PittsburghSep22_2020.txt
+2023-03-28  03:27 PM                 0 speechesnames.txt
+2020-09-26  10:25 AM            14,616 TexasSep23_2019.txt
+2020-09-26  10:25 AM            58,815 ToledoJan9_2020.txt
+2020-09-26  10:25 AM            61,189 TulsaJun20_2020.txt
+2020-09-26  10:25 AM            51,248 TupeloNov1_2019.txt
+2020-09-26  10:25 AM            39,007 WildwoodJan28_2020.txt
+2020-09-26  10:25 AM            60,863 Winston-SalemSep8_2020.txt
+2020-09-26  10:25 AM            34,486 YumaAug18_2020.txt
+              36 File(s)      2,023,788 bytes
+               2 Dir(s)  90,729,123,840 bytes free
